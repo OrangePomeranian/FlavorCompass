@@ -1,0 +1,31 @@
+scrapy startproject recipe_recommender
+
+scrapy crawl dania_miesne -o dania.json
+
+sqlite3 recipes.db
+
+.close
+
+python3 /Users/daria/Desktop/DMP/recipe_recommender/load_json_to_sqlite.py
+
+sqlite3 recipes.db < flavor_engine.sql   
+
+touch app.py
+
+streamlit run app.py
+
+TODO
+
+built database schema
+articles
+ingredients
+tags
+article_ingredients
+article_tags
+
+# add slodkie/slone/wytrawne - case in sql
+# wege/bialkowe - case in sql
+# add level - case in sql
+# add time - in python if possible
+
+# use streamlit for user communication

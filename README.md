@@ -114,3 +114,11 @@ Scikit-learn
 Streamlit
 
 Joblib
+
+<img width="1425" height="785" alt="Screenshot 2026-02-26 at 21 24 12" src="https://github.com/user-attachments/assets/43a59304-8811-46da-944e-2a2dae3bad24" />
+
+<img width="1440" height="786" alt="Screenshot 2026-02-26 at 21 24 28" src="https://github.com/user-attachments/assets/cd391daa-571e-49e7-8357-0e5a79f90a36" />
+
+<img width="1421" height="747" alt="Screenshot 2026-02-26 at 21 25 11" src="https://github.com/user-attachments/assets/0d1ea70b-17ba-4acf-acc9-278c740e0983" />
+
+
